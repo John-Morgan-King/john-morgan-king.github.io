@@ -28,4 +28,4 @@ I am [John King], a passionate journalist with expertise in [areas of expertise]
 - Email: [youremail@example.com](mailto:youremail@example.com)
 - Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
