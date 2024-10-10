@@ -5,7 +5,7 @@ I am [John King], a passionate journalist with expertise in [areas of expertise]
 
 ## Featured Articles
 
-### [Nuclear Interest](#)
+### [Nuclear Interests](#)
 *Published on [Publication Name] - Date*
 
 [Short description or excerpt from the article. Explain what it's about and why it's important.]
