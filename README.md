@@ -5,7 +5,8 @@ My name is John King, a passionate journalist with expertise in [areas of expert
 
 ## Featured Articles
 
-### [Nuclear Interests](#)
+### [Nuclear Interests](john-morgan-king.github.io
+/nuclear-interests)
 *03/10/2024*
 
 ---
