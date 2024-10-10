@@ -1,11 +1,11 @@
-# [Your Name] - Journalism Portfolio
+# [John King] - Journalism Portfolio
 
 ## About Me
-I am [Your Name], a passionate journalist with expertise in [areas of expertise]. I have worked with [mention publications, blogs, or platforms], and I specialize in [types of journalism such as investigative, political, feature writing].
+I am [John King], a passionate journalist with expertise in [areas of expertise]. I have worked with [mention publications, blogs, or platforms], and I specialize in [types of journalism such as investigative, political, feature writing].
 
 ## Featured Articles
 
-### [Title of Article 1](#)
+### [Nuclear Interest](#)
 *Published on [Publication Name] - Date*
 
 [Short description or excerpt from the article. Explain what it's about and why it's important.]
