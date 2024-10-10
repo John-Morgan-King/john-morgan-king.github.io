@@ -28,6 +28,3 @@ I am [John King], a passionate journalist with expertise in [areas of expertise]
 - Email: [youremail@example.com](mailto:youremail@example.com)
 - Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
